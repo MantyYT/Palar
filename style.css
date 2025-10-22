@@ -326,3 +326,28 @@ body {
     width: 320px;
   }
 }
+.product-section-container {
+  margin-top: 100px;
+  background-color: white;
+}
+.alltext-section {
+  font-size: 44.2px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 64px;
+}
+.menuproduct {
+  display: flex;
+  justify-content: center;
+}
+.menunav {
+  display: flex;
+  gap: 40px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #000000;
+  margin-bottom: 100px;
+}
+.imgproduct{
+  w
+}
